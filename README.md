@@ -1,1 +1,1 @@
-# lear-llm
+# learn-llm
