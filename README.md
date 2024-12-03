@@ -1,1 +1,1 @@
-# Learn Basig of LLM
+# Learn Basic of LLM
